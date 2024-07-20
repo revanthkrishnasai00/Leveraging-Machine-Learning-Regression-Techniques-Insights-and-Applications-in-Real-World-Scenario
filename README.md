@@ -1,2 +1,2 @@
-# pattern-recognisation
-This repository is dedicated to machine learning, providing a array of resources, code examples, and projects. It seeks to deliver valuable insights into a wide range of machine learning techniques, algorithms, and applications.
+#Comparative analysis betwen machine learing models
+Machine learning has greatly influenced various domains, including agriculture, healthcare, and marketing, by providing solutions to practical challenges. This repository seeks to offer valuable insights into different machine learning regression techniques and their applications using real-world datasets.
